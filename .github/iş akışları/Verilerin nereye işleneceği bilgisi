@@ -1,0 +1,8 @@
+kullanır : eylemler/önbellek@v2
+        ile :
+          yol : ${{ github.workspace }}/build/geoip/
+          # Not: Önbelleğe alınan veriler, 7 gün kullanılmadıktan sonra 
+
+
+Önbellek verilerinin nereye yada hangi satıra işleneceği bilgisi girilmesi gerekir
+Kullanıcı sistem tarafından yönlendirilmesi yapılmadı
